@@ -12,4 +12,10 @@ spring:
   profiles: cloud
   cloud:
     config:
-      uri: http//peru.com
+      uri: http//peru.com-
+--
+spring:
+  profiles: cloud2
+  cloud:
+    config:
+      uri: http//peru2.com
