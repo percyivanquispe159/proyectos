@@ -1,9 +1,9 @@
 info:
   description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  url: https://github.com/spring-cloud-samples_percy
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka2/
       
-foo: baz
+foo: percy
